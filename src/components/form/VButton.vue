@@ -35,7 +35,7 @@ const typeStyle = {
 }
 const classes = computed(()=>{
       return typeStyle[props.btn_type]
-})
+});
 </script>
 
 <style lang="scss" scoped>

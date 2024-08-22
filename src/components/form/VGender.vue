@@ -12,7 +12,6 @@
             <label for="Female" class="ml-2 text-gray-700">Female</label>
         </div>
     </div>
-    <!-- <ErrorMessage :name="name" class="text-error_color mt-2 mb-[-5px] ml-4 text-[17px] font-medium text-start"/> -->
 </template>
 
 <script setup>

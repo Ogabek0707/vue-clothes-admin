@@ -22,7 +22,7 @@ const props = defineProps({
       modalValue: {
             type: Boolean
       }
-})
+});
 </script>
 
 <style lang="scss" scoped>

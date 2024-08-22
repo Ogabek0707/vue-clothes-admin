@@ -38,6 +38,6 @@
   </script>
   
   <style lang="scss" scoped>
-  /* Your styles here */
+
   </style>
   

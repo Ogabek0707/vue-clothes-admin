@@ -35,7 +35,6 @@ import { UseSidebar } from "@/hooks/UseSidebar";
 const { isOpen, toggleSidebar } = UseSidebar();
 const windowWidth = ref(window.innerWidth);
 
-// Watch for window resize events
 window.addEventListener('resize', () => {
   windowWidth.value = window.innerWidth;
 });

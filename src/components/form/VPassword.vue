@@ -41,7 +41,6 @@ const props = defineProps({
       },
 })
 const ForgotP = () => {
-      // Notification({ text: "You can log in!!!" }, { type: "success" }, { time: "3500" }, { description: "" });
       alert('Therefore, it should not be forgotten : ) ')
 }
 const changeType = (e) => {

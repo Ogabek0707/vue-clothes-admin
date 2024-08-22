@@ -52,11 +52,9 @@
   const selectedCategoryId = ref("");
   const SendId = (value) => {
     selectedCategoryId.value = value;
-    // Here you can send selectedCategoryId to your backend or other logic
-  }
+  };
   </script>
   
   <style lang="scss" scoped>
-  /* Add your custom styles here */
   </style>
   

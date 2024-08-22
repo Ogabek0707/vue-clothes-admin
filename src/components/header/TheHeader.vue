@@ -96,8 +96,6 @@ $bg-color: #fff;
 $blue-color: #435EBE;
 
 .hover:hover {
-  /* width: 95%; */
-  /* padding-left: -50px; */
   background: #ededed;
   border-radius: 10px;
   color: #12486B;
@@ -112,7 +110,6 @@ $blue-color: #435EBE;
         top: 105%;
         right: 20px;
         width: 250px;
-        /* height: 120px; */
         background-color: #9a9a9a;
         border-radius: 15px;
         box-shadow: 10px 10px 15px rgba(202, 202, 202, 0.5), 

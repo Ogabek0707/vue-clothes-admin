@@ -83,9 +83,6 @@ onMounted( () => {
 const getProductDiscount = () => {
     store.getProductDiscount(params)
 };
-// watch(searchQuery, (newValue) => {
-//     // We can also implement additional logic if needed
-// });
 </script>
 
 <style lang="scss" scoped>
