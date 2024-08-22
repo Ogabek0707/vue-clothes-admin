@@ -7,8 +7,8 @@ import purgecss from 'vite-plugin-purgecss'
 export default defineConfig({
   plugins: [vue(),
     purgecss({
-      content: ['./src/**/*.vue', './src/**/*.html']
-    })
+      content: ['./src/**/*.html', './src/**/*.vue', './src/**/*.jsx'],
+    }),
   ],
   build: {
     minify: 'terser',
